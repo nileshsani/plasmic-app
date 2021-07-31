@@ -30,7 +30,8 @@
       "icons": [],
       "images": [],
       "codeComponents": [],
-      "projectApiToken": "nPw276qGsy9kISQCHrcRrsj3Y9Yva9TMyYKNUpoOMOHgRj1A51qOC6LMB2185QlA52K87n32oQJHSi5be9w"
+      "projectApiToken": "nPw276qGsy9kISQCHrcRrsj3Y9Yva9TMyYKNUpoOMOHgRj1A51qOC6LMB2185QlA52K87n32oQJHSi5be9w",
+      "jsBundleThemes": []
     },
     {
       "projectId": "tYXzbT3akEBS2QTgZkCmo",
@@ -256,6 +257,19 @@
             "modulePath": "../pages/features.tsx"
           },
           "cssFilePath": "plasmic/simple_light_landing_page/PlasmicFeatures.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "o8G1dFgSuE",
+          "name": "NewPage",
+          "type": "managed",
+          "projectId": "tYXzbT3akEBS2QTgZkCmo",
+          "renderModuleFilePath": "plasmic/simple_light_landing_page/PlasmicNewPage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/new-page.tsx"
+          },
+          "cssFilePath": "plasmic/simple_light_landing_page/PlasmicNewPage.module.css",
           "scheme": "blackbox",
           "componentType": "page"
         }

@@ -134,7 +134,7 @@ function PlasmicHeader__RenderFunc(props: {
             className={classNames("__wab_instance", sty.linkButton__gHy1Y)}
             narrower={"narrower" as const}
             text={"Sign up ->"}
-            type={"solidBlack" as const}
+            type={"outlineBlue" as const}
           />
         ) : null}
       </p.Stack>

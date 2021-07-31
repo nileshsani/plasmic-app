@@ -498,6 +498,9 @@
   position: relative;
   color: #666666 /* plasmic-token: RDOSYv2uVmzZk1 */;
   font-size: 14px;
+  height: auto;
+  width: auto;
+  display: inline-block;
 }
 .root .link__p0Zw:hover {
   text-decoration-line: underline;
@@ -509,6 +512,11 @@
   font-size: 14px;
   color: #666666 /* plasmic-token: RDOSYv2uVmzZk1 */;
   display: inline-block;
+}
+.link__riKZs {
+  position: relative;
+  font-size: 14px;
+  margin: 0px 0px 0px 8px;
 }
 .freeBox__tFjwz {
   display: flex;

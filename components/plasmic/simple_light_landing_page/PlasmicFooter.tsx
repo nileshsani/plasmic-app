@@ -496,6 +496,19 @@ function PlasmicFooter__RenderFunc(props: {
           >
             {"All rights reserved."}
           </div>
+
+          <p.PlasmicLink
+            className={classNames(
+              defaultcss.all,
+              defaultcss.__wab_text,
+              sty.link__riKZs
+            )}
+            component={Link}
+            href={"https://www.plasmic.app/" as const}
+            platform={"nextjs"}
+          >
+            {"Some link goes here :)"}
+          </p.PlasmicLink>
         </div>
 
         <p.Stack

@@ -89,6 +89,7 @@
   max-width: 768px;
   position: relative;
   align-self: center;
+  color: rgb(101, 103, 107) /* plasmic-token: _vo6-mmg5 */;
 }
 @media (min-width: 0px) and (max-width: 768px) {
   .freeBox__yxzeX {
